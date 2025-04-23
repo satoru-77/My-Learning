@@ -2,6 +2,8 @@
 
 ## 📘 Learning Log
 
+**UPDATE** : Once a Month | **Current** **Doing**: Mathematics
+
 ## TOOLS
 | Resource | Status | Link |
 |---------|--------|------|
