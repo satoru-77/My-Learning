@@ -5,7 +5,8 @@
 ## TOOLS
 | Resource | Status | Link |
 |---------|--------|------|
-| UNIX Commands Tutorial | ☑️ In Progress | https://youtu.be/Ez8F0nW6S-w?si=BxaTN4UrVI4-GpkS |
+| YouTube (Apna College): Git and GitHub | ✅ Done | https://youtu.be/Ez8F0nW6S-w?si=BxaTN4UrVI4-GpkS |
+| Youtube (CodeWithHarry): Git & GitHub Tutorial For Beginners | ✅ Done | [https://youtu.be/Ez8F0nW6S-w?si=BxaTN4UrVI4-GpkS](https://youtu.be/gwWKnnCMQ5c?si=YIMgo_aXRtkUTI3_) |
 
 
 ## MACHINE LEARNING
@@ -14,7 +15,6 @@
 |---------|--------|------|
 | Machine Learning Hindi Playlist | ✅ Done | [Watch here](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=rjqH1lcYjAVJEfaN) |
 | Python Basics by GFG | ⬜ Not Started | [Watch here](#) |
-| UNIX Commands Tutorial | ☑️ In Progress | [Watch here](#) |
 
 ## Data Structures and Algorithms
 
@@ -23,4 +23,9 @@
 |[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|✅|
 |[Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)|✅|
 
-### Version Control
+### MATHEMATICS
+
+| Resource | Status | Link |
+|---------|--------|------|
+| YouTube(IIT Roorkee) Essential Mathematics for Machine Learning| ⬜ Not Started |https://youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE&si=ZOghE6IqVUCGKu-F |
+| YouTube(CampusX) Maths for Machine Learning| ⬜ Not Started |https://youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&si=W4vHFmw5DOjdy4dQ|
