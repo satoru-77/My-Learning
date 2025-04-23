@@ -14,7 +14,7 @@
 | Resource | Status | Link |
 |---------|--------|------|
 | Machine Learning Hindi Playlist | ✅ Done | [Watch here](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=rjqH1lcYjAVJEfaN) |
-| Python Basics by GFG | ⬜ Not Started | [Watch here](#) |
+
 
 ## Data Structures and Algorithms
 
@@ -31,10 +31,28 @@
 | YouTube(CampusX) Maths for Machine Learning| ⬜ Not Started |[Watch here](https://youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&si=W4vHFmw5DOjdy4dQ)|
 
 
-**Linear Regression**
-- [x] What is Regression?
-- [x] Cost Function
-- [ ] Gradient Descent
-- [ ] Coding Linear Regression
+### Pandas
 
-- [ ] build-passing-brightgreen
+|Resource|Progress|
+|---|---|
+|[Datacamp: Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)|✅|
+|[Datacamp: Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)|✅|
+|[Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)|✅|
+|[Datacamp: Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)|✅|
+|[Datacamp: Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)|✅|
+|[Datacamp: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)|✅|
+|[Datacamp: Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)|✅|
+|[Datacamp: Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas)|✅|
+|[Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)|✅|
+
+
+### PyTorch
+
+|Resource|Progress|
+|---|---|
+|[Article: PyTorch internals](https://blog.ezyang.com/2019/05/pytorch-internals/)|⬜|
+|[Article: Taking PyTorch For Granted](https://nrehiew.github.io/blog/pytorch/)|⬜|
+|[Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)|✅|
+|[Datacamp: Intermediate Deep Learning with PyTorch](https://app.datacamp.com/learn/courses/intermediate-deep-learning-with-pytorch)|⬜|
+|[Datacamp: Deep Learning for Text with PyTorch](https://www.datacamp.com/courses/deep-learning-for-text-with-pytorch)|⬜|
+|[Datacamp: Deep Learning for Images with PyTorch](https://www.datacamp.com/courses/deep-learning-for-images-with-pytorch)|⬜|
