@@ -5,8 +5,8 @@
 ## TOOLS
 | Resource | Status | Link |
 |---------|--------|------|
-| YouTube (Apna College): Git and GitHub | ✅ Done | https://youtu.be/Ez8F0nW6S-w?si=BxaTN4UrVI4-GpkS |
-| Youtube (CodeWithHarry): Git & GitHub Tutorial For Beginners | ✅ Done | [https://youtu.be/Ez8F0nW6S-w?si=BxaTN4UrVI4-GpkS](https://youtu.be/gwWKnnCMQ5c?si=YIMgo_aXRtkUTI3_) |
+| YouTube (Apna College): Git and GitHub | ✅ Done | [Watch here] https://youtu.be/Ez8F0nW6S-w?si=BxaTN4UrVI4-GpkS |
+| Youtube (CodeWithHarry): Git & GitHub Tutorial For Beginners | ✅ Done | [Watch here][https://youtu.be/Ez8F0nW6S-w?si=BxaTN4UrVI4-GpkS](https://youtu.be/gwWKnnCMQ5c?si=YIMgo_aXRtkUTI3_) |
 
 
 ## MACHINE LEARNING
