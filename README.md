@@ -27,8 +27,8 @@
 
 | Resource | Status | Link |
 |---------|--------|------|
-| YouTube(IIT Roorkee) Essential Mathematics for Machine Learning| ⬜ Not Started |https://youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE&si=ZOghE6IqVUCGKu-F |
-| YouTube(CampusX) Maths for Machine Learning| ⬜ Not Started |https://youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&si=W4vHFmw5DOjdy4dQ|
+| YouTube(IIT Roorkee) Essential Mathematics for Machine Learning| ⬜ Not Started |[Watch here](https://youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE&si=ZOghE6IqVUCGKu-F) |
+| YouTube(CampusX) Maths for Machine Learning| ⬜ Not Started |[Watch here](https://youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&si=W4vHFmw5DOjdy4dQ)|
 
 
 **Linear Regression**
@@ -36,3 +36,5 @@
 - [x] Cost Function
 - [ ] Gradient Descent
 - [ ] Coding Linear Regression
+
+- [ ] build-passing-brightgreen
