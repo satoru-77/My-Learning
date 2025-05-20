@@ -26,6 +26,7 @@
 |[Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)|
 |[YouTube (Gate Smashers): Design and Analysis of Algorithms](https://www.youtube.com/watch?v=u8JZ9gU5o4g&list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa)|
 |[YouTube (Unacademy): Data Structures](ttps://youtube.com/playlist?list=PLIC0AxWOdm5BvHpI_AtPqqjoADnSqcYgp&si=uUjeuaxpQRQyiDcx)|
+|[YouTube (Gate Wallah): Data Structures](https://youtube.com/playlist?list=PL3eEXnCBViH8qQtEEoN7iy8ldG9uaYknF&si=CRXVY3Wsxl_TRhoY)|
 
 ### MATHEMATICS
 
