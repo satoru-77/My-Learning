@@ -17,6 +17,12 @@
 |---------|--------|------|
 | Machine Learning Hindi Playlist | ✅ Done | [Watch here](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=rjqH1lcYjAVJEfaN) |
 
+## POWWER BI
+
+| Resource | Status | Link |
+|---------|--------|------|
+| POWER BI UDEMY| ✅ Done | ([https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=rjqH1lcYjAVJEfaN](https://www.udemy.com/share/10bEjb3@c0d7rt7wiMLH3EJU1jKYYXlv81TWMJhHQ1H6rsjCGE8QWzXbxhDBAc02ZqsddUmTg==/)) |
+
 
 ## Data Structures and Algorithms
 
